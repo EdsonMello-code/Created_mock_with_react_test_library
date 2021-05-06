@@ -39,5 +39,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/faker": "^5.5.4",
+    "faker": "^5.5.3",
+    "fetch-mock-jest": "^1.5.1",
+    "node-fetch": "^2.6.1"
   }
 }
